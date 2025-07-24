@@ -172,11 +172,11 @@ r"""
     def on_connect(self):
 
         #ACTUAL CONNECTION
-        ip = self.input_entry.get()
-        threading.Thread(target=self.connect, args=(ip,)).start()
+        #ip = self.input_entry.get()
+        #threading.Thread(target=self.connect, args=(ip,)).start()
 
         #TESTING PURPOSE
-        #self.show_function_page()
+        self.show_function_page()
 
     def connect(self, ip):
         self.status_label.configure(text="Connecting...")
