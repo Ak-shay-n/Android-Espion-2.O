@@ -221,11 +221,6 @@ This tool is intended for:
 - [ADB](https://developer.android.com/studio/command-line/adb) - Android Debug Bridge
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern GUI framework
 
-## 👨‍💻 Author
-
-**Ak-shay-n**
-- GitHub: [@Ak-shay-n](https://github.com/Ak-shay-n)
-
 ## 🙏 Acknowledgments
 
 - CustomTkinter team for the modern GUI framework
